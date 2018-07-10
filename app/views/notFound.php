@@ -1,0 +1,1 @@
+<h2 style="color:red; text-align:center; line-height: 1.5;">Error 404: Page does not exist!<br>Are you sure what you are looking for?</h2>
